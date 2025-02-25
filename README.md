@@ -1,4 +1,4 @@
-# Transcript Classifier
+# Knowledge Input Transcript Classifier
 
 This repository contains a text classifier designed to categorize call transcripts into three categories: Elementary, Higher Education, and Lifelong Learning. The solution integrates several components:
 
