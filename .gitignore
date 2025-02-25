@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Model outputs
+trained_model/
+results/
+logs/
+
+# OS-specific files
+.DS_Store
