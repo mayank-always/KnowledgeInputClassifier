@@ -16,10 +16,3 @@ This repository contains a text classifier designed to categorize call transcrip
 
 3. **generate_pdfs.py:**  
    Generates PDF files from transcript data using the FPDF library (with text cleaning to handle Unicode issues).
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/transcript-classifier.git
-   cd transcript-classifier
